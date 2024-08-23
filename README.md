@@ -1,5 +1,8 @@
 To set up and use the `Text2Speech` project, a Python Django web application that converts text into MP3 audio using Google’s `gtts` library, follow these instructions:
 
+![Screenshot](docs/tts-1.PNG)
+![Screenshot](docs/tts-2.PNG)
+
 ### Overview
 
 `Text2Speech` is a Django web application designed to convert text into speech and save it as an MP3 audio file using Google's `gtts` (Google Text-to-Speech) library. 
